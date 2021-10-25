@@ -1,0 +1,23 @@
+{
+  "configurations" : [
+    {
+      "id" : "9D000E0A-9F99-46E4-852A-8E6EEA8F31A0",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Bookworms.xcodeproj",
+      "identifier" : "EEBB0682271FB886001307AB",
+      "name" : "Bookworms"
+    }
+  },
+  "testTargets" : [
+
+  ],
+  "version" : 1
+}
